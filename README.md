@@ -1,4 +1,4 @@
-# user-client
+# vue-ts-app
 
 ## Project setup
 ```
